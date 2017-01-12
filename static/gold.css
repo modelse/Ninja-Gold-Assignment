@@ -1,0 +1,30 @@
+#bank{
+    border: solid 1px black;
+    display: inline-block;
+    width:80px;
+}
+.place{
+    border: solid 1px black;
+    height:300px;
+    width:300px;
+    display: inline-block;
+    margin-top: 50px;
+    text-align: center;
+}
+#act{
+    border: solid 1px black;
+    height:150px;
+    width:800px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.buttons{
+    width:130px;
+    border-radius: 5px;
+    background-color: gold;
+    font-size: 15px;
+}
